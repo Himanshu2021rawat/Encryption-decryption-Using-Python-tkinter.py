@@ -1,0 +1,52 @@
+Encryption Decryption USING PYTHON---->
+
+1.What is Cryptography ?
+Ans. Cryptography, or cryptology is the practice and study of techniques for secure 
+     communication in the presence of adversarial behavior.
+
+2. What is Encryption ?
+Ans. Encryption is the process of translating (plain-text) into something that appears
+     to be random and meningless(cipher-text). For.ex-> hello(plain-text) => (sauyashfaj11!!!)
+     (Encrypted or cypher text).
+
+3. What is Decryption ?
+Ans. Decryption is the process of converting ciphertext back to plain text.
+
+
+So Iam Going to make a Tool or Gui With the help of Python's framework called Tkinter,and many other frameworks to 
+Name of the TOOL IS.
+
+ENCRYPTED MESSAGE TO DECRYPTED MESSAGE(CYPHER -TO- pLAIN-TEXT).
+
+Let's Start-->
+
+Uses Of This Tool:
+1. You can send Your personal message with privacy.
+2. no need to get impatient about the message security.
+3. Helps you to make plans secretly.
+
+Let's Star-->
+
+Basic Requirement-->
+1.Python should be installed in your laptop or PC.
+2.install python module pybase64 Using this command in cmd/powershell(/*pip install pybase648*/)
+
+Q. What is pybase64 ?
+Ans. (a.)In Python the base64 module is used to encode and decode data.First,the strings are
+         Converted into byte-like objects and then encoded using the base64 module. 
+	
+     (b.)base64 schemes is commonly used whne there is a need to encode binary data that needs
+         to be store and transfered over media that are designed to deal with ASCII,
+         This is to ensure that data remain intact without modification during transport.  
+
+
+3.Should Be aware of The concept OF CryptoGraphy or cryotology:
+  Explained Above. 
+
+
+Let's Start--->
+
+=>Basic steps Code will Be Provided in the repository of Git HUB:
+  Link will Be mentioned Below:-->
+
+Step 1. import The basic Framework Which we will  used In this Project
